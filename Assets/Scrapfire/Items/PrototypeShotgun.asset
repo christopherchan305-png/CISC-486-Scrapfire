@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aa4bdf10b4d340be8ae1d2609683887, type: 3}
+  m_Name: PrototypeShotgun
+  m_EditorClassIdentifier: Scrapfire::Scrapfire.Characters.Inventory.Item
+  DisplayName: PrototypeShotgun
+  ItemCategory: 1
+  Icon: {fileID: 0}
+  Material: {fileID: 0}
+  Model: {fileID: 0}
+  StackSize: 1
+  Durability: 0
+  WeaponPrefab: {fileID: 7596682203143329117, guid: 92672d900f894416f9857d1b7fc2ae3d, type: 3}
+  Weapon: {fileID: 11400000, guid: aed356513dcc046319dc059b53ac38c1, type: 2}
+  UseBehaviour: {fileID: 0}
+  MoveSpeedMultiplier: 1
+  DamageMultiplier: 1

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f1ba6f837d2623b4089d48d1f144f7d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89636
+  packageName: TopDown Engine
+  packageVersion: 5.0
+  assetPath: Assets/TopDownEngine/Demos/Deadline/PostProcessing/DeadlinePostProcessingVolumeProfile.asset
+  uploadId: 958508

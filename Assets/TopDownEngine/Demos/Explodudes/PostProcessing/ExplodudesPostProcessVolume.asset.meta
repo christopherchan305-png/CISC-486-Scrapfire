@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92e60f1487baa4c4da4058be2f86d819
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89636
+  packageName: TopDown Engine
+  packageVersion: 5.0
+  assetPath: Assets/TopDownEngine/Demos/Explodudes/PostProcessing/ExplodudesPostProcessVolume.asset
+  uploadId: 958508

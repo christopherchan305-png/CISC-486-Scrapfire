@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8518228272697384597726c76a729981
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89636
+  packageName: TopDown Engine
+  packageVersion: 5.0
+  assetPath: Assets/TopDownEngine/Demos/URP_Settings/UniversalRenderPipelineGlobalSettings.asset
+  uploadId: 958508

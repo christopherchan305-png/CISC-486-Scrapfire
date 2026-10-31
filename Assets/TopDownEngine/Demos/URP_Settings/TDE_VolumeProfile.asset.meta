@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6d4ec5e971c09c9dab029c2d01d9a787
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89636
+  packageName: TopDown Engine
+  packageVersion: 5.0
+  assetPath: Assets/TopDownEngine/Demos/URP_Settings/TDE_VolumeProfile.asset
+  uploadId: 958508

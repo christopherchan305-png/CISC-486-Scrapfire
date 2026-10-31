@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b1508ab7f9779149b424043351c93db
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89636
+  packageName: TopDown Engine
+  packageVersion: 5.0
+  assetPath: Assets/TopDownEngine/Demos/Minimal2D/PostProcessing/Minimal2DPostprocessingProfile.asset
+  uploadId: 958508

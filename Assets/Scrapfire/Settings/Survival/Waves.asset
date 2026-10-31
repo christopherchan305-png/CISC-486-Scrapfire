@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2837d83b0e8d9475c8f5c51e2f37871e, type: 3}
+  m_Name: Waves
+  m_EditorClassIdentifier: Scrapfire::Scrapfire.Waves.WaveSequence
+  Waves:
+  - Name: First contact
+    PreparationSeconds: 5
+    MaximumAlive: 6
+    HealthMultiplier: 1
+    DamageMultiplier: 1
+    Groups:
+    - Prefab: {fileID: 1359420522830686836, guid: 31d1b00ba1d814265b5e811d1c01f65e, type: 3}
+      Count: 5
+      Interval: 1
+  - Name: Containment
+    PreparationSeconds: 5
+    MaximumAlive: 6
+    HealthMultiplier: 1.2
+    DamageMultiplier: 1
+    Groups:
+    - Prefab: {fileID: 1359420522830686836, guid: 31d1b00ba1d814265b5e811d1c01f65e, type: 3}
+      Count: 6
+      Interval: 1
+    - Prefab: {fileID: 1359420522830686836, guid: d67c4af1afa214ed89e2e149ffb45ce5, type: 3}
+      Count: 2
+      Interval: 1
+  - Name: Overrun
+    PreparationSeconds: 5
+    MaximumAlive: 6
+    HealthMultiplier: 1.5
+    DamageMultiplier: 1
+    Groups:
+    - Prefab: {fileID: 1359420522830686836, guid: 31d1b00ba1d814265b5e811d1c01f65e, type: 3}
+      Count: 8
+      Interval: 1
+    - Prefab: {fileID: 1359420522830686836, guid: d67c4af1afa214ed89e2e149ffb45ce5, type: 3}
+      Count: 4
+      Interval: 1
+  RepeatLastWave: 0
+  RepeatMultiplier: 1.15

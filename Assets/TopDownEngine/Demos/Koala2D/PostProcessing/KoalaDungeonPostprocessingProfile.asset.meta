@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e52f17df423ff84ea860cf74b5299a1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89636
+  packageName: TopDown Engine
+  packageVersion: 5.0
+  assetPath: Assets/TopDownEngine/Demos/Koala2D/PostProcessing/KoalaDungeonPostprocessingProfile.asset
+  uploadId: 958508

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad2080e8114534ccaafb677d59827722
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89636
+  packageName: TopDown Engine
+  packageVersion: 5.0
+  assetPath: Assets/TopDownEngine/Demos/URP_Settings/TDE_PC_Renderer.asset
+  uploadId: 958508

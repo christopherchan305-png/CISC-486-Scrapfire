@@ -1,0 +1,5 @@
+{
+    "name": "Scrapfire",
+    "rootNamespace": "Scrapfire",
+    "references": ["Unity.InputSystem", "Unity.AI.Navigation"]
+}

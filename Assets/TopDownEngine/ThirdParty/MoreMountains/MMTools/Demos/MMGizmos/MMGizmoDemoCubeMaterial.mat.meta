@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c8ed718dcc282e418a2ec0fc86524a7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89636
+  packageName: TopDown Engine
+  packageVersion: 5.0
+  assetPath: Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Demos/MMGizmos/MMGizmoDemoCubeMaterial.mat
+  uploadId: 958508

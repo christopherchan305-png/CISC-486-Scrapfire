@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a4fe9fd744e6b799fa4a90658a9393c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89636
+  packageName: TopDown Engine
+  packageVersion: 5.0
+  assetPath: Assets/TopDownEngine/Demos/URP_Settings/TDE_Mobile_RPAsset.asset
+  uploadId: 958508
